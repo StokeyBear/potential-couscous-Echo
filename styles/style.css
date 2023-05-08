@@ -1,0 +1,17 @@
+// Presentational
+html, body { margin: 0; padding: 0; }
+html { height: 100%; } body { min-height: 100%; }
+
+body {
+  color: #FFF;
+  background-color: #FD940A;
+  background-image: radial-gradient(circle, #F9A72B 0%, #FA9026 70%, #FB6C1F 100%);
+}
+
+.card-title {
+  background-color: green;
+}
+
+.card-body {
+  background-color: blue;
+}
